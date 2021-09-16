@@ -1,5 +1,7 @@
 package com.example.command.bubble;
-
+/**
+* stop Command
+*/
 public class LargeBubbleCircleMachineStopCommand implements Command {
 
 	LargeBubbleCircleMachine machine;
