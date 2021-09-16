@@ -1,5 +1,7 @@
 package com.example.command.bubble;
-
+/**
+* Start Command
+*/
 public class SmallBubbleCircleMachineStartCommand implements Command {
 
 	SmallBubbleCircleMachine machine;
