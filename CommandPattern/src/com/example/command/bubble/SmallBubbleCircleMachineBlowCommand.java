@@ -1,5 +1,7 @@
 package com.example.command.bubble;
-
+/**
+* Blow Command
+*/
 public class SmallBubbleCircleMachineBlowCommand implements Command {
 
 	SmallBubbleCircleMachine machine;
