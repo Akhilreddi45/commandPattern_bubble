@@ -1,5 +1,7 @@
 package com.example.command.bubble;
-
+/**
+* Command controller, this class is used to trigger command
+*/
 public class BubbleController {
 
 	Command command;
