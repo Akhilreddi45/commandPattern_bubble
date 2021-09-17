@@ -13,7 +13,7 @@ public class LargeBubbleCircleMachineStopCommand implements Command {
 
 	@Override
 	public String execute() {
-		machine.start();
+		machine.stop();
 		return "LargeBubbleCircleMachineStopCommand";
 	}
 
